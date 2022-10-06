@@ -31,5 +31,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "Provides a responsive Single Page Application (SPA) for querying healthcare providers loaded by the NPPES-DATA-LOAD project and exposed over REST by the NPPES-REST-API project.\r Leverages React, React Hooks, JSX, CSS, and the fetch api.  As described below, the\r project was bootstrapped using Create React App and Node.js.  Some debugging was done using\r the VS Code Javascript debugger.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChuckChekuri/nppes-react-ui.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChuckChekuri/nppes-react-ui/issues"
+  },
+  "homepage": "https://github.com/ChuckChekuri/nppes-react-ui#readme"
 }
